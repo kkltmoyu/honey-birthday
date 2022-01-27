@@ -2,7 +2,8 @@ $(function(){
     $('#dowebok').fullpage({
         'navigation': true,
         'navigationPosition':"left",
-        'navigationColor':['#fff'],
-
+        'navigationColor': ['#fff'],
+        // 'slidesNavigation': true
+        // 'continuousVertical':true
     });
 });
